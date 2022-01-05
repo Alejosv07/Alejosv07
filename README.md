@@ -2,7 +2,7 @@
 
 Hi I'm Alejandro! A self-taught coder, working hard to improve my career!
 
-I have knowledgeable on basic on Python, Php, Wordpress.
+I have knowledgeable on basic with Python, Php, Wordpress.
 
 - 🔭 I’m currently working on my skills frontend with [frontend mentor](https://www.frontendmentor.io/) you can watch [my perfil](https://www.frontendmentor.io/profile/Alejosv07).
 - 🌱 I’m currently learning JavaScript, because i want to be a full stack web developer with solid base in CSS, JS, JAVA.
