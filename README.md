@@ -26,4 +26,5 @@ I have knowledgeable basic with Python, Php, Wordpress.
 * BEM
 * Tailwind css
 * HTML
+* C#
 * SQL (PostgreSQL, Oracle, Mysql, SQLServer)
