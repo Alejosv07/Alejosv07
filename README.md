@@ -24,4 +24,6 @@ I have knowledgeable on basic on Python, Php.
 * Css
 * SASS
 * BEM
+* Tailwind css
 * HTML
+* SQL (PostgreSQL, Oracle, Mysql, SQLServer)
